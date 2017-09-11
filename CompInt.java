@@ -1,7 +1,6 @@
 import java.util.Scanner;  
 
 public class CompInt
-
 {
 	public static void main (String[] args)
 	{
